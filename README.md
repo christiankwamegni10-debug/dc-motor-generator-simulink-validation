@@ -74,6 +74,6 @@ Die Differentialgleichungen wurden in MATLAB/Simulink mittels Integrator-Blöcke
 1. **Voraussetzungen:** MATLAB & Simulink (R2020b oder neuer empfohlen).
 2. Repository klonen:
    ```bash
-   git clone [https://github.com/DEIN_christiankwamegni10-debug/dc-motor-generator-simulink-validation.git](https://github.com/DEIN_BENUTZERNAME/dc-motor-generator-simulink-validation.git)
+   git clone [https://github.com/christiankwamegni10-debug/dc-motor-generator-simulink-validation.git](https://github.com/christiankwamegni10-debug/dc-motor-generator-simulink-validation.git)
 
    
