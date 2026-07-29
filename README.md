@@ -47,7 +47,7 @@ $$
 
 Die Differentialgleichungen wurden in MATLAB/Simulink mittels Integrator-Blöcken und kontinuierlicher Zustandsrückführung umgesetzt, um die physikalische Kopplung abzubilden:
 
-![Simulink Blockschaltbild](docs/simulink_model.png)
+![Simulink Blockschaltbild](docs/simulink_Blockschaltbild.png)
 
 *(Hinweis: Speichern Sie einen Screenshot Ihres Simulink-Modells im Ordner `docs/`)*
 
