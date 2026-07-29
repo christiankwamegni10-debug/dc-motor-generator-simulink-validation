@@ -43,7 +43,7 @@ $$
 
 ---
 
-## 💻 Simulink-Modell
+## Simulink-Modell
 
 Die Differentialgleichungen wurden in MATLAB/Simulink mittels Integrator-Blöcken und kontinuierlicher Zustandsrückführung umgesetzt, um die physikalische Kopplung abzubilden:
 
@@ -53,7 +53,7 @@ Die Differentialgleichungen wurden in MATLAB/Simulink mittels Integrator-Blöcke
 
 ---
 
-## 📊 Wichtigste Ergebnisse & Erkenntnisse
+## Wichtigste Ergebnisse & Erkenntnisse
 
 1. **Sprungantwort & Übergangsverhalten:**
    - Beim Anlauf tritt aufgrund der fehlenden Gegen-EMK ($\omega = 0$) ein Ankerstrompeak auf, der mit steigender Drehzahl exponentiell abfällt.
@@ -69,7 +69,7 @@ Die Differentialgleichungen wurden in MATLAB/Simulink mittels Integrator-Blöcke
 
 ---
 
-## 🚀 Ausführung der Simulation
+## Ausführung der Simulation
 
 1. **Voraussetzungen:** MATLAB & Simulink (R2020b oder neuer empfohlen).
 2. Repository klonen:
